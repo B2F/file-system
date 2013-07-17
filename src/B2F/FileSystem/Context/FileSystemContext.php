@@ -7,8 +7,6 @@ use Behat\Behat\Context\ClosuredContextInterface,
 use Behat\Gherkin\Node\PyStringNode,
     Behat\Gherkin\Node\TableNode;
 
-require '../FileSystemController.php';
-
 class FileSystemContext extends BehatContext {
  
     public static $fileSystemController;
