@@ -21,7 +21,6 @@
     "autoload": {
         "psr-0": {
             "B2F\\FileSystem\\": "src/"
-        },
-        "files": ["src/B2F/FileSystem/Context/FileSystemContext.php"]
+        }
     }
 }
