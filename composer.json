@@ -20,8 +20,8 @@
     ],
     "autoload": {
         "psr-0": {
-            "": "src",
-            "B2F\\FileSystem": "src/"
+            "B2F\\FileSystem\\": "src/"
         }
+        "files": ["src/B2F/FileSystem/Context/FileSystemContext.php"]
     }
 }
